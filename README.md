@@ -5,7 +5,7 @@ Easy configuration for Clojure apps
 ## Install
 
 ```
-[cconf "1.1.0"]
+[tbayer/cconf "1.2.0"]
 ```
 
 ## Usage
